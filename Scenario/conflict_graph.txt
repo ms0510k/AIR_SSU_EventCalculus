@@ -1,0 +1,10 @@
+Meal:Meal,WatchingTV,Communication,Reading
+WatchingTV:WatchingTV,Meal,Communication,Smoking
+Communication:Communication,Meal,WatchingTV,Cleaning,Smoking
+Reading:Reading,Meal,Smoking
+Cleaning:Cleaning,Communication
+ArrangeThing:ArrangeThing
+Smoking:Smoking,Meal,WatchingTV,Communication,Reading
+HealthCare:HealthCare
+Drink:Drink,HealthCare,Meal,WatchingTV,Communication,Reading
+Clothing:Clothing

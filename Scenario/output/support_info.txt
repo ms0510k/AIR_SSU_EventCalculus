@@ -1,0 +1,26 @@
+최소지지도를 만족하면서 복합적으로 발생하는 1개의 intention(s)정보: 
+Meal:: 0.3084780388151175
+Drink:: 0.16138917262512767
+CommunicationWithPerson:: 0.3564862104187947
+PrepareMeal:: 0.4933605720122574
+Refreshment:: 0.1491317671092952
+Cleaning:: 0.27783452502553624
+Communication:: 0.05005107252298264
+
+최소지지도를 만족하면서 복합적으로 발생하는 2개의 intention(s)정보: 
+Drink and CommunicationWithPerson:: 0.10316649642492338
+PrepareMeal and Drink:: 0.15934627170582227
+PrepareMeal and Meal:: 0.20122574055158324
+Cleaning and CommunicationWithPerson:: 0.0745658835546476
+Cleaning and PrepareMeal:: 0.1920326864147089
+Refreshment and Meal:: 0.11133810010214505
+Refreshment and Cleaning:: 0.04085801838610827
+PrepareMeal and CommunicationWithPerson:: 0.24616956077630234
+Cleaning and Drink:: 0.05720122574055159
+Refreshment and CommunicationWithPerson:: 0.11235955056179775
+Refreshment and PrepareMeal:: 0.13687436159346272
+CommunicationWithPerson and Meal:: 0.21450459652706844
+Cleaning and Meal:: 0.11746680286006128
+
+최소지지도를 만족하면서 복합적으로 발생하는 3개의 intention(s)정보: 
+
