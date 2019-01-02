@@ -1,0 +1,48 @@
+PrepareMeal
+Activities:콩나물/시금치/콩 다듬기,가스레인지 음식 데우기,냉장고 음식 넣고 꺼내기
+Poses:의자에 앉아 있다,소파에 앉아 있다,바닥에 앉아 있다,서 있기 (걷기 포함)
+Objects:fridge,ingredient,sink,table,stove
+Meal
+Activities:수저/포크로 음식 집어먹기
+Poses:의자에 앉아 있다,소파에 앉아 있다,바닥에 앉아 있다,서 있기 (걷기 포함)
+Objects:spoon,fork,fridge,ingredient,sink,table,stove
+Refreshment
+Activities:과일깎기,물/음료 마시기,물/음료를 컵에 따르기
+Poses:의자에 앉아 있다,소파에 앉아 있다,바닥에 앉아 있다,서 있기 (걷기 포함),stand_bend,sit_crouch,stand
+Objects:spoon,fork,fridge,ingredient,sink,table,stove,약
+WatchingTV
+Activities:리모콘으로 TV 컨트롤하기
+Poses:엎드려 누워 있다,서 있다 앉기,바닥에 앉아 있다,앉았다 눕기,서 있기 (걷기 포함),옆으로 누워 있다,의자에 앉아 있다,반듯이 누워 있다,소파에 앉아 있다,sit_sofa,sit_chair,sit_floor,sit_crouch,lie_side
+Objects:sofa,tv
+CommunicationWithPerson
+Activities:담소 나누기
+Poses:옆으로 누워 있다,앉았다 서기,서 있다 앉기,앉았다 눕기,소파에 앉아 있다,반듯이 누워 있다,바닥에 앉아 있다,의자에 앉아 있다,서 있기 (걷기 포함),stand,sit_sofa,sit_chair,sit_floor,lie_side
+Objects:sofa,table
+Communication
+Activities:전화걸기/받기,스마트폰 조작하기
+Poses:옆으로 누워 있다,앉았다 서기,서 있다 앉기,앉았다 눕기,소파에 앉아 있다,반듯이 누워 있다,바닥에 앉아 있다,의자에 앉아 있다,서 있기 (걷기 포함),stand,sit_sofa,sit_chair,sit_floor,lie_side
+Objects:sofa,table
+Reading
+Activities:신문 보기,글쓰기,책 읽기,read_book,read_newspaper,write
+Poses:쪼그려 앉아 있다, 서 있다 앉기,무엇을 잡고 허리를 구부린 자세로 서 있다,앉았다 서기,의자에 앉아 있다,소파에 앉아 있다,바닥에 앉아 있다,반듯이 누워 있다,옆으로 누워 있다,서 있기 (걷기 포함),sit_sofa,sit_chair,sit_floor,lie_side
+Objects:sofa,chair,book,newspaper
+Cleaning
+Activities:걸레로 엎드려서 바닥 닦기,진공청소기 돌리기,식탁 걸레질 하기,그릇 설거지 하기
+Poses:바닥에 앉아 있다,무엇을 잡고 허리를 구부린 자세로 서 있다,쪼그려 앉아 있다,서 있기 (걷기 포함),stand_bend,sit_crouch,stand
+Objects:table,chair,tv,sofa,bed
+ArrangeThing
+Activities:이불펴고/개기
+Poses:서 있기 (걷기 포함),바닥에 앉아 있다,쪼그려 앉아 있다,stand_bend,sit_crouch,stand
+Objects:이불
+Smoking
+Activities:담배피기
+Poses:의자에 앉아 있다,바닥에 앉아 있다,서 있기 (걷기 포함),stand_bend,sit_crouch,stand
+Objects:담배
+HealthCare
+Activities:약을 뜯어서 삼키기,맨손체조하기,박수 치기,목돌리기 운동하기,어깨 셀프 안마하기
+Poses:의자에 앉아 있다,반듯이 누워 있다,소파에 앉아 있다,바닥에 앉아 있다,서 있기 (걷기 포함),stand_bend,sit_crouch,stand
+Objects:약
+Clothing
+Activities:상의 벗기,상의 입기
+Poses:서 있기 (걷기 포함),바닥에 앉아 있다
+Objects:옷

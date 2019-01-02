@@ -1,0 +1,13 @@
+PrepareMeal
+Meal
+Refreshment
+WatchingTV
+CommunicationWithPerson
+Communication
+Reading
+Cleaning
+ArrangeThing
+Smoking
+HealthCare
+Drink
+Clothing
